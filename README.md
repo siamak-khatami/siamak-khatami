@@ -2,7 +2,7 @@
 
 Welcome to my page! </br> I'm a Fullstack developer with a focus on AI and decision-making algorithms with both industrial engineering and computer science backgrounds, located at <img src="https://flagcdn.com/no.svg" width="13"/> <b>Norway</b>.
 
-### Prefered Programming languages
+### Prefered Programming languages and technologies
 #### Backend Development:
 <p> 
   <img alt="Python-FastAPI" src="https://img.shields.io/badge/build-Fast_API-brightgreen?style=flat&logo=python&label=Python&color=%23ffde57">
@@ -32,7 +32,7 @@ Welcome to my page! </br> I'm a Fullstack developer with a focus on AI and decis
   <img alt="FireBase" src="https://img.shields.io/badge/-FireBase-DD2C00?style=flat-square&logo=firebase&logoColor=white" /> 
 </P>
 
-### Things I code with
+### Others
 <p>  
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
