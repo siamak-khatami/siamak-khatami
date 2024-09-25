@@ -1,6 +1,6 @@
 ## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, I am Siamak!
 
-Welcome to my page! </br> I'm a Fullstack developer with a focus on AI and decision-making algorithms with both industrial engineering and computer science backgrounds, located at <img src="https://flagcdn.com/no.svg" width="13"/><b>Norway</b>.
+Welcome to my page! </br> I'm a Fullstack developer with a focus on AI and decision-making algorithms with both industrial engineering and computer science backgrounds, located at <img src="https://flagcdn.com/no.svg" width="13"/> <b>Norway</b>.
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=siamak-khatami)](https://github.com/siamak-khatami/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siamak-khatami)](https://github.com/siamak-khatami/github-readme-stats)
 
