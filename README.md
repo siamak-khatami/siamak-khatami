@@ -2,6 +2,7 @@
 
 Welcome to my page! </br> I'm a Fullstack developer with a focus on AI and decision-making algorithms with both industrial engineering and computer science backgrounds, located at <img src="https://flagcdn.com/no.svg" width="13"/> <b>Norway</b>.
 
+Email: khatami.sia@gmail.com
 ### Prefered Programming languages and technologies
 #### Backend Development:
 <p> 
